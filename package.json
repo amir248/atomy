@@ -1,5 +1,5 @@
 {
-  "homepage": "https://{pages-endpoint}/{repo}",
+  "homepage": "https://atomy.qucu.ru",
   "name": "excellent",
   "version": "1.0.0",
   "main": "server.js",
